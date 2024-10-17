@@ -6,12 +6,12 @@
 		"name": "YouTube",
 		"href": "https://www.youtube.com",
 		"desc": "",
-		"logo": ""
+		"logo": "static/icons/youtube.png"
 	}, {
-		"name": "photopea",
-		"href": "https://www.photopea.com/",
-		"desc": "在线ps，支持绝大多数功能。",
-		"logo": "static/icons/photopea.com.png"
+		"name": "github",
+		"href": "https://www.github.com/",
+		"desc": "",
+		"logo": "static/icons/github.png"
 	}]
 }, {
 	"_id": "yunpan",
