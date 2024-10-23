@@ -13,6 +13,11 @@
 		"desc": "",
 		"logo": "static/icons/github.png"
 	}, {
+		"name": "chatgpt",
+		"href": "https://chatgpt.com/",
+		"desc": "",
+		"logo": "static/icons/openai.ico"
+	},{
 		"name": "cloudflare",
 		"href": "https://dash.cloudflare.com/login",
 		"desc": "",
