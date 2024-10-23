@@ -38,16 +38,6 @@
 		"desc": "腾讯QQ网盘服务",
 		"logo": "static/icons/weiyun.com.ico"
 	}, {
-		"name": "坚果云",
-		"href": "https://www.jianguoyun.com/",
-		"desc": "小众服务稳定的网盘，支持webdav",
-		"logo": "static/icons/jianguoyun.com.ico"
-	}, {
-		"name": "奶牛快传",
-		"href": "https://cowtransfer.com/",
-		"desc": "小众服务稳定的网盘",
-		"logo": "static/icons/cowtransfer.com.png"
-	}, {
 		"name": "OneDrive",
 		"href": "http://onedrive.com/",
 		"desc": "微软云存储，支持在线Offiec编辑",
@@ -62,31 +52,11 @@
 		"href": "https://www.google.com/intl/zh-CN/drive/",
 		"desc": "Google在线云存储服务",
 		"logo": "static/icons/drive.google.com.png"
-	}, {
-		"name": "iCloud",
-		"href": "https://www.icloud.com/",
-		"desc": "苹果在线存储和云服务",
-		"logo": "static/icons/icloud.com.png"
-	}, {
-		"name": "Firefox Send",
-		"href": "https://send.firefox.com/",
-		"desc": "火狐提供的快传网盘",
-		"logo": "static/icons/firefox.com.svg"
 	},{
 		"name": "天翼云盘",
 		"href": "https://cloud.189.cn/",
 		"desc": "电信出品的优秀网盘",
 		"logo": "static/icons/189.cn.ico"
-	},{
-		"name": "曲奇办公",
-		"href": "https://quqi.com/",
-		"desc": "主打办公群组类网盘",
-		"logo": "static/icons/quqi.com.ico"
-	},{
-		"name": "城通网盘",
-		"href": "https://www.ctfile.com/",
-		"desc": "页面不算太难看的网赚网盘,度盘替代品之一",
-		"logo": "static/icons/ctfile.com.png"
 	}]
 },  { 
 	"_id": "daohang",
