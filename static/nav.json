@@ -16,12 +16,12 @@
 		"name": "chatgpt",
 		"href": "https://chatgpt.com/",
 		"desc": "",
-		"logo": "static/icons/openai.ico"
+		"logo": "static/icons/openai.png"
 	},{
 		"name": "cloudflare",
 		"href": "https://dash.cloudflare.com/login",
 		"desc": "",
-		"logo": "static/icons/cf.ico"
+		"logo": "static/icons/cf.png"
 	}]
 }, {
 	"_id": "yunpan",
